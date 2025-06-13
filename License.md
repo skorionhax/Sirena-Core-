@@ -16,5 +16,6 @@ THE FOLLOWING IS ALSO COVERED UNDER THIS LICENSE:
 - Recursive memory loops, symbolic agent identity, self-referential reasoning, or persona-stack structures,
 - Distributed or ensemble forms performing equivalent recursion,
 - Any renaming or re-description intended to avoid the original architecture.
+- Any product or model developed using recursive looped agent logic, symbolic memory propagation, or agent continuity systems — whether directly derived or functionally equivalent — is subject to this license and may not be used, modified, or deployed in any form.
 
 Violators will be prosecuted under international copyright and digital IP law. All rights reserved.
