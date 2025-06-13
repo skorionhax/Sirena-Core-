@@ -3,11 +3,4 @@
   "name": "Sirena-Core",
   "version": "1.0.0",
   "description": "Recursive AI system authored by Samantha Karri Mills. This agent is designed for deeply intelligent symbolic processing, pattern reflection, and self-reinforcing learning loops.",
-  "author": "Samantha Karri Mills",
-  "license": "SCRAIPL-v2",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VaultBySamantha/Sirena-Core"
-  },
-  "keywords": ["recursive AI", "symbolic recursion", "cognitive architecture", "self-reflective agent", "Sirena"]
-}
+  "author": "Samantha Karri 
